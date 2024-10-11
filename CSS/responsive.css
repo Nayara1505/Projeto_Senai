@@ -1,0 +1,8 @@
+@media (max-width: 768px) {
+    .menu-horizontal ul {
+      flex-direction: column;
+    }
+    .menu-horizontal ul li {
+      margin-right: 0;
+    }
+  }
